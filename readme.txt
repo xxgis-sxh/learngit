@@ -1,4 +1,4 @@
-this is a learngit.
+This is a learngit.
 one
 two
 three
